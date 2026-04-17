@@ -106,7 +106,7 @@ This project respects user privacy.
 
 For more details, please review the Privacy Policy:
 
-https://www.grabclip.com/privacy_policy
+https://www.grabclip.com/privacy-policy
 
 ## Contributing
 
