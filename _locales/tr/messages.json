@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Douyin Video Parser"
+  },
+  "appDesc": {
+    "message": "Douyin video URL'lerini ayrıştırmak ve işlemek için basit bir tarayıcı uzantısı."
+  }
+}

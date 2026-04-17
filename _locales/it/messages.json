@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Douyin Video Parser"
+  },
+  "appDesc": {
+    "message": "Una semplice estensione browser per analizzare e gestire gli URL dei video Douyin."
+  }
+}

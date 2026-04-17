@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Douyin Video Parser"
+  },
+  "appDesc": {
+    "message": "Douyin動画URLの解析と処理のためのシンプルなブラウザ拡張機能。"
+  }
+}

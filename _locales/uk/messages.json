@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Douyin Video Parser"
+  },
+  "appDesc": {
+    "message": "Простий розширення браузера для парсингу та обробки URL-адрес відео Douyin."
+  }
+}
