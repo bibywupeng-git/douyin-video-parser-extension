@@ -1,8 +1,22 @@
 # Douyin Video Parser Extension (Chrome)
 
-A lightweight, open-source Chrome extension that helps users send Douyin video page URLs to GrabClip for link analysis, parsed result viewing, and extended video processing.
+<p align="center">
+  <img src="./icons/icon128.png" alt="Douyin Video Parser Extension Icon" width="128" height="128">
+</p>
 
-This project is designed with a minimal architecture and a clear separation between the browser extension and the web-based processing workflow.
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/douyin-video-parser/kakelhlffijkhbcgejkclpncmfohfkmb">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Available-blue?logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+  </a>
+  &nbsp;
+  <a href="https://www.grabclip.com/douyin">
+    <img src="https://img.shields.io/badge/GrabClip-Douyin%20Tool-black" alt="GrabClip Douyin Tool">
+  </a>
+</p>
+
+A lightweight, open-source Chrome extension that helps users parse Douyin video page URLs and continue processing on GrabClip.
+
+This extension works on supported Douyin video pages and provides a simple way to send the current page URL to GrabClip for further handling, parsed result viewing, and additional tools.
 
 ## Introduction
 
